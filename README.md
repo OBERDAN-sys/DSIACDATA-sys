@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou @OBERDAN-sys
-- 👀 Estou interessado em aprender coisas novas na area de aprendizagem de maquina e profundo. 
-- 🌱 Nos ultimos 8 anos tenho  desenvolvimento de modelos preditivos para atender varios setores da economia global
-- 💞️ Atualmente trabalho em varios projetos, entre eles um com foco na predição dos principais grupos de doenças crônicas não transmissiveis.
+- 👀 Estou interessado em aprender coisas novas na area de aprendizagem de maquina e profundo para atender vários setores. 
+- 🌱 Nos ultimos 10 anos tenho  desenvolvimento de modelos preditivos para atender varios setores da economia global.
+- 💞️Ttrabalhei em varios projetos para o setor da educação, varejo, governo e saúde. Atualmente desenvolvo um modelo de  predição dos principais grupos de doenças crônicas não transmissiveis.
 - 📫 Tenho dedicado muito tempo a esse trabalho e espero muito em breve coloca-lo em produção.
 
 <!---
